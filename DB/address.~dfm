@@ -1,0 +1,134 @@
+object AddressFrame: TAddressFrame
+  Left = 0
+  Top = 0
+  Width = 1045
+  Height = 896
+  Align = alClient
+  TabOrder = 0
+  object z: TPanel
+    Left = 0
+    Top = 0
+    Width = 1045
+    Height = 205
+    Align = alTop
+    TabOrder = 0
+    object AddressIdLabel: TLabel
+      Left = 584
+      Top = 50
+      Width = 71
+      Height = 13
+      Caption = #30005#23376#22320#26631'ID'#21495
+    end
+    object AddressFlatLabel: TLabel
+      Left = 586
+      Top = 110
+      Width = 72
+      Height = 13
+      Caption = #25152#22312#24037#20316#24179#38754
+    end
+    object Panel1: TPanel
+      Left = 1
+      Top = 1
+      Width = 180
+      Height = 203
+      Align = alLeft
+      BiDiMode = bdRightToLeftNoAlign
+      Caption = #30005#23376#26631#31614#22320#28857#28155#21152
+      ParentBiDiMode = False
+      TabOrder = 0
+    end
+    object AddressCancleBtn: TBitBtn
+      Left = 780
+      Top = 168
+      Width = 75
+      Height = 25
+      Caption = #21462#28040
+      TabOrder = 1
+    end
+    object AddressSaveBtn: TBitBtn
+      Left = 632
+      Top = 174
+      Width = 75
+      Height = 25
+      Caption = #20445#23384
+      TabOrder = 2
+    end
+    object AddressIDDBEdit: TDBEdit
+      Left = 704
+      Top = 46
+      Width = 121
+      Height = 21
+      ImeName = #20013#25991' ('#31616#20307') - '#25628#29399#25340#38899#36755#20837#27861
+      TabOrder = 3
+    end
+    object GroupBox1: TGroupBox
+      Left = 218
+      Top = 14
+      Width = 279
+      Height = 179
+      Caption = 'GroupBox1'
+      TabOrder = 4
+      object AddressXLabel: TLabel
+        Left = 26
+        Top = 32
+        Width = 46
+        Height = 13
+        Caption = 'X '#36724#22352#26631
+      end
+      object Label1: TLabel
+        Left = 26
+        Top = 74
+        Width = 46
+        Height = 13
+        Caption = 'Y '#36724#22352#26631
+      end
+      object Label2: TLabel
+        Left = 26
+        Top = 126
+        Width = 46
+        Height = 13
+        Caption = 'Z '#36724#22352#26631
+      end
+      object AddressXDBEdit: TDBEdit
+        Left = 110
+        Top = 28
+        Width = 143
+        Height = 21
+        ImeName = #20013#25991' ('#31616#20307') - '#25628#29399#25340#38899#36755#20837#27861
+        TabOrder = 0
+      end
+      object AddressYDBEdit: TDBEdit
+        Left = 108
+        Top = 72
+        Width = 139
+        Height = 21
+        ImeName = #20013#25991' ('#31616#20307') - '#25628#29399#25340#38899#36755#20837#27861
+        TabOrder = 1
+      end
+      object AddressZDBEdit: TDBEdit
+        Left = 108
+        Top = 126
+        Width = 137
+        Height = 21
+        ImeName = #20013#25991' ('#31616#20307') - '#25628#29399#25340#38899#36755#20837#27861
+        TabOrder = 2
+      end
+    end
+    object AddressFlatDBEdit: TDBEdit
+      Left = 704
+      Top = 106
+      Width = 121
+      Height = 21
+      ImeName = #20013#25991' ('#31616#20307') - '#25628#29399#25340#38899#36755#20837#27861
+      TabOrder = 5
+    end
+  end
+  object AddressShowPanel: TPanel
+    Left = 0
+    Top = 205
+    Width = 1045
+    Height = 691
+    Align = alClient
+    TabOrder = 1
+  end
+end

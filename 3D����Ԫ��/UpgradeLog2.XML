@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="3D基本元素_org">
+</Property><Property Name="解决方案文件" Value="D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\3D基本元素_org.sln">
+</Property><Property Name="Date" Value="2011年3月4日">
+</Property><Property Name="Time" Value="11:41:35">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\3DTools.csproj" Description="项目文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\3DTools.csproj">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Interactive3DDecorator.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Interactive3DDecorator.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\InteractiveVisual3D.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\InteractiveVisual3D.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\MathUtils.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\MathUtils.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\MeshUtils.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\MeshUtils.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Matrix3DStack.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Matrix3DStack.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\ScreenSpaceLines3D.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\ScreenSpaceLines3D.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Trackball.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Trackball.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\TrackballDecorator.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\TrackballDecorator.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Trackport3D.xaml.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Trackport3D.xaml.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\ViewMode.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\ViewMode.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Viewport3DDecorator.cs" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Viewport3DDecorator.cs">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Properties\Settings.settings" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Properties\Resources.resx" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\Trackport3D.xaml" Description="文件已成功备份为 D:\My Document\Expression\Blend 3\Projects\3DMAX建模\3D基本元素\Backup1\Trackport3D.xaml">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\3DTools.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\3DTools.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="3DTools" Source="C:\Documents and Settings\Administrator\桌面\3D\3DTools-1.01-src\3DTools\3DTools.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
